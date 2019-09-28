@@ -103,7 +103,7 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 changes to our Privacy Policy by posting the new Privacy Policy here and informing you via
 email or Google Play Store page. You are advised to consult this Privacy Policy regularly for any
 changes, as continued use is deemed approval of all changes. You can check the history of this
-policy by clicking here.
+policy by checking our official pages or contacting us directly.
 
 Your Consent
 By using the Application, you are consenting to our processing of your information as set forth in
@@ -116,5 +116,3 @@ transferred, processed and stored there under Brazil privacy standards.
 Contact us
 If you have any questions regarding privacy while using the Application, or have questions about
 our practices, please contact us via email at dogdevstudio@gmail.com.
-</body>
-</html>
